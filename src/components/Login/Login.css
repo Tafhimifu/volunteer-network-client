@@ -1,0 +1,22 @@
+.login-section{
+    margin-left: 350px;
+    margin-right: 400px;
+    border: .5px solid gray;
+    border-radius: 5px;
+    margin-top: 100px;
+    height: 400px;
+}
+.login{
+    display: block;
+    padding: 5px;
+    width: 300px;
+    margin: 120px 100px 20px 50px ;
+    text-align: center;
+ }
+ .button{
+     border: .5px solid gray; 
+     width: 400px;
+     
+ }
+ 
+
