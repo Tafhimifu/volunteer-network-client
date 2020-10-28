@@ -7,7 +7,7 @@
                        - Registration
                        - Admin Event Add,Delete
                        - Donation
- + n                      
+                      
 #### Project Stage: Ongoing
 #### Used Language: Javascript
 #### FrameWork: React Js, Express Js,Firebase
